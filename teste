@@ -1,0 +1,9 @@
+var text = new createjs.Text(
+"Quanto mais tempo eu estou com você\
+mais eu te amo",
+"bold 24px Arial", "#fff");
+text.textAlign ="center";
+text.x = w / 2;
+text.y = h / - text.
+getMeasuredLineHeight();
+stage.addChild(text);
